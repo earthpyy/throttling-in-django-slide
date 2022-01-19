@@ -45,7 +45,7 @@ layout: quote
 
 # How does it works?
 
-<br>
+After the limit reached, the request will be blocked and got a _429 Too Many Requests_ response.
 
 <img src="/assets/multiple-failed-login.jpg" class="h-80 mx-auto"> [^1]
 
