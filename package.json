@@ -8,7 +8,8 @@
   "dependencies": {
     "@slidev/cli": "^0.28.1",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "playwright-chromium": "^1.17.2"
   },
   "name": "throttling-in-django"
 }
