@@ -12,10 +12,7 @@ download: true
 
 ### CODIUM
 
-<div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
+<div class="abs-br m-6">
   <a href="https://github.com/earthpyy/throttling-in-django-slide" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
