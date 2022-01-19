@@ -173,3 +173,13 @@ REST_FRAMEWORK = {
 ```
 
 This setting will allow 5 OTP requests per minute, but 10 requests for login request.
+
+---
+
+# Sample use cases
+
+<br>
+
+- Rate Limit on Public APIs
+- SMS OTP Request Limit
+- Paid API subscription
