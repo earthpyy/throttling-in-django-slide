@@ -47,7 +47,7 @@ layout: quote
 
 <br>
 
-<img src="assets/multiple-failed-login.jpg" class="h-80 mx-auto"> [^1]
+<img src="/assets/multiple-failed-login.jpg" class="h-80 mx-auto"> [^1]
 
 [^1]: [Reference](https://dev.to/mattdclarke/how-to-rate-limit-a-login-route-in-express-using-node-rate-limiter-flexible-and-redis-1i1k)
 
